@@ -1,0 +1,101 @@
+2022-05-19 08:05:594 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 08:05:774 INFO  HomePage :35 - Mouse Hovering on Buy & Sell Link. 
+2022-05-19 08:05:492 INFO  HomePage :39 - Mouse Hover & click on Search Car Link. 
+2022-05-19 08:05:507 INFO  SearchAndUsedCarsPage :51 - Verifying New & Used Car Search - carsguide page is displayed. 
+2022-05-19 08:05:146 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 08:05:284 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 08:05:29 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 08:05:190 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 08:05:545 INFO  HomePage :35 - Mouse Hovering on Buy & Sell Link. 
+2022-05-19 08:05:338 INFO  HomePage :39 - Mouse Hover & click on Search Car Link. 
+2022-05-19 08:05:350 INFO  SearchAndUsedCarsPage :51 - Verifying New & Used Car Search - carsguide page is displayed. 
+2022-05-19 08:05:100 INFO  SearchAndUsedCarsPage :63 - Selecting Car Make : Nissan
+2022-05-19 08:05:209 INFO  SearchAndUsedCarsPage :69 - Selecting Car Model : Murano
+2022-05-19 08:05:389 INFO  SearchAndUsedCarsPage :75 - Selecting Car Location : NSW - All
+2022-05-19 08:05:642 INFO  SearchAndUsedCarsPage :82 - Selecting Car Price : $45,000
+2022-05-19 08:05:645 INFO  SearchAndUsedCarsPage :88 - Clicking on Find Car Button. 
+2022-05-19 08:05:980 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 08:05:342 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 08:05:911 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 08:05:344 INFO  HomePage :35 - Mouse Hovering on Buy & Sell Link. 
+2022-05-19 08:05:91 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 08:05:358 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 08:05:31 INFO  HomePage :35 - Mouse Hovering on Buy & Sell Link. 
+2022-05-19 08:05:138 INFO  HomePage :43 - Mouse Hover & click on Used Car Link. 
+2022-05-19 08:05:147 INFO  SearchAndUsedCarsPage :56 - Verifying Used Car for Sales Page Displayed.
+2022-05-19 08:05:575 INFO  SearchAndUsedCarsPage :63 - Selecting Car Make : Mazda
+2022-05-19 08:05:676 INFO  SearchAndUsedCarsPage :69 - Selecting Car Model : CX-3
+2022-05-19 08:05:829 INFO  SearchAndUsedCarsPage :75 - Selecting Car Location : QLD - All
+2022-05-19 08:05:978 INFO  SearchAndUsedCarsPage :82 - Selecting Car Price : $50,000
+2022-05-19 08:05:536 INFO  SearchAndUsedCarsPage :88 - Clicking on Find Car Button. 
+2022-05-19 08:05:769 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 08:05:832 INFO  HomePage :35 - Mouse Hovering on Buy & Sell Link. 
+2022-05-19 08:05:166 INFO  HomePage :43 - Mouse Hover & click on Used Car Link. 
+2022-05-19 08:05:173 INFO  SearchAndUsedCarsPage :56 - Verifying Used Car for Sales Page Displayed.
+2022-05-19 08:05:696 INFO  SearchAndUsedCarsPage :63 - Selecting Car Make : Tesla
+2022-05-19 08:05:825 INFO  SearchAndUsedCarsPage :69 - Selecting Car Model : Model 3
+2022-05-19 08:05:14 INFO  SearchAndUsedCarsPage :75 - Selecting Car Location : NSW - All
+2022-05-19 08:05:199 INFO  SearchAndUsedCarsPage :82 - Selecting Car Price : $90,000
+2022-05-19 08:05:995 INFO  SearchAndUsedCarsPage :88 - Clicking on Find Car Button. 
+2022-05-19 08:05:328 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 13:05:703 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 13:05:708 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 13:05:313 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 13:05:74 INFO  HomePage :35 - Mouse Hovering on Buy & Sell Link. 
+2022-05-19 13:05:417 INFO  HomePage :39 - Mouse Hover & click on Search Car Link. 
+2022-05-19 13:05:429 INFO  SearchAndUsedCarsPage :51 - Verifying New & Used Car Search - carsguide page is displayed. 
+2022-05-19 13:05:832 INFO  SearchAndUsedCarsPage :63 - Selecting Car Make : Audi
+2022-05-19 13:05:215 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 13:05:247 INFO  HomePage :35 - Mouse Hovering on Buy & Sell Link. 
+2022-05-19 13:05:899 INFO  HomePage :39 - Mouse Hover & click on Search Car Link. 
+2022-05-19 13:05:912 INFO  SearchAndUsedCarsPage :51 - Verifying New & Used Car Search - carsguide page is displayed. 
+2022-05-19 13:05:267 INFO  SearchAndUsedCarsPage :63 - Selecting Car Make : Honda
+2022-05-19 13:05:597 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 13:05:774 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 13:05:319 INFO  HomePage :35 - Mouse Hovering on Buy & Sell Link. 
+2022-05-19 13:05:744 INFO  HomePage :39 - Mouse Hover & click on Search Car Link. 
+2022-05-19 13:05:753 INFO  SearchAndUsedCarsPage :51 - Verifying New & Used Car Search - carsguide page is displayed. 
+2022-05-19 13:05:02 INFO  SearchAndUsedCarsPage :63 - Selecting Car Make : Nissan
+2022-05-19 13:05:149 INFO  SearchAndUsedCarsPage :69 - Selecting Car Model : Murano
+2022-05-19 13:05:319 INFO  SearchAndUsedCarsPage :75 - Selecting Car Location : NSW - All
+2022-05-19 13:05:454 INFO  SearchAndUsedCarsPage :82 - Selecting Car Price : $45,000
+2022-05-19 13:05:65 INFO  SearchAndUsedCarsPage :88 - Clicking on Find Car Button. 
+2022-05-19 13:05:730 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 13:05:747 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 13:05:198 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 13:05:303 INFO  HomePage :35 - Mouse Hovering on Buy & Sell Link. 
+2022-05-19 13:05:256 INFO  HomePage :39 - Mouse Hover & click on Search Car Link. 
+2022-05-19 13:05:275 INFO  SearchAndUsedCarsPage :51 - Verifying New & Used Car Search - carsguide page is displayed. 
+2022-05-19 13:05:897 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 13:05:19 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 13:05:56 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 13:05:263 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 13:05:865 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 13:05:409 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 13:05:41 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 13:05:712 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 13:05:295 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 13:05:806 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 13:05:192 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 13:05:520 INFO  HomePage :35 - Mouse Hovering on Buy & Sell Link. 
+2022-05-19 13:05:85 INFO  HomePage :43 - Mouse Hover & click on Used Car Link. 
+2022-05-19 13:05:92 INFO  SearchAndUsedCarsPage :56 - Verifying Used Car for Sales Page Displayed.
+2022-05-19 13:05:227 INFO  SearchAndUsedCarsPage :63 - Selecting Car Make : Mazda
+2022-05-19 13:05:356 INFO  SearchAndUsedCarsPage :69 - Selecting Car Model : CX-3
+2022-05-19 13:05:511 INFO  SearchAndUsedCarsPage :75 - Selecting Car Location : QLD - All
+2022-05-19 13:05:668 INFO  SearchAndUsedCarsPage :82 - Selecting Car Price : $50,000
+2022-05-19 13:05:28 INFO  SearchAndUsedCarsPage :88 - Clicking on Find Car Button. 
+2022-05-19 13:05:490 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 13:05:726 INFO  HomePage :35 - Mouse Hovering on Buy & Sell Link. 
+2022-05-19 13:05:847 INFO  HomePage :43 - Mouse Hover & click on Used Car Link. 
+2022-05-19 13:05:858 INFO  SearchAndUsedCarsPage :56 - Verifying Used Car for Sales Page Displayed.
+2022-05-19 13:05:49 INFO  SearchAndUsedCarsPage :63 - Selecting Car Make : Tesla
+2022-05-19 13:05:171 INFO  SearchAndUsedCarsPage :69 - Selecting Car Model : Model 3
+2022-05-19 13:05:718 INFO  SearchAndUsedCarsPage :75 - Selecting Car Location : NSW - All
+2022-05-19 13:05:896 INFO  SearchAndUsedCarsPage :82 - Selecting Car Price : $90,000
+2022-05-19 13:05:268 INFO  SearchAndUsedCarsPage :88 - Clicking on Find Car Button. 
+2022-05-19 13:05:17 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-19 13:05:586 INFO  HomePage :35 - Mouse Hovering on Buy & Sell Link. 
+2022-05-19 13:05:926 INFO  HomePage :43 - Mouse Hover & click on Used Car Link. 
+2022-05-19 13:05:933 INFO  SearchAndUsedCarsPage :56 - Verifying Used Car for Sales Page Displayed.
+2022-05-19 13:05:984 INFO  SearchAndUsedCarsPage :63 - Selecting Car Make : Ford
