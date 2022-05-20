@@ -58,29 +58,28 @@ public class SearchAndUsedCarsPage extends Utility {
     }
 
     public void selectMakeOfCar(String make) throws InterruptedException {
-        //mouseHoverToElement(makeCarDropDown);
-        Thread.sleep(3000);
+        Thread.sleep(2000);
         log.info("Selecting Car Make : " + make);
-        selectByVisibleTextFromDropDown(makeCarDropDown, make);
+        selectByValueFromDropDown(makeCarDropDown, make);
     }
 
     public void selectModelOfCar(String model) {
-        //mouseHoverToElement(modelDropDown);
+
         log.info("Selecting Car Model : " + model);
-        selectByVisibleTextFromDropDown(modelDropDown, model);
+        selectByValueFromDropDown(modelDropDown, model);
     }
 
     public void selectLocation(String location) {
-       // mouseHoverToElement(locationDropDown);
+
         log.info("Selecting Car Location : " + location);
-        selectByVisibleTextFromDropDown(locationDropDown, location);
+        selectByValueFromDropDown(locationDropDown, location);
     }
 
     public void selectPrice(String price) throws InterruptedException {
-      //  mouseHoverToElement(priceDropDown);
+
         Thread.sleep(3000);
         log.info("Selecting Car Price : " + price);
-        selectByVisibleTextFromDropDown(priceDropDown, price);
+        selectByValueFromDropDown(priceDropDown, price);
     }
 
     public void clickOnFindCarButton() {

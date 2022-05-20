@@ -8,14 +8,14 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        features = "src/test/java/resources/featurefile",
+        features = "target/failed_scenarios.txt",
         glue = "au/com/carsguide",
         plugin = {"pretty", "html:target/cucumber-report/cucumber.html",
-                "com.cucumber.listener.ExtentCucumberFormatter:target/Extent_Reports/report.html"},
+                "com.cucumber.listener.ExtentCucumberFormatter:target/Extent_Reports/report.html,rerun:target/failed_scenarios.txt"},
         tags = "@Regression"
 
 )
-public class TestRunner {
+public class ReRunner {
         @AfterClass
         public static void setUp() {
                 String projectPath = System.getProperty("user.dir");
