@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        features = "target/failed_scenarios.txt",
+        features = "@target/failed_scenarios.txt",
         glue = "au/com/carsguide",
         plugin = {"pretty", "html:target/cucumber-report/cucumber.html",
                 "com.cucumber.listener.ExtentCucumberFormatter:target/Extent_Reports/report.html,rerun:target/failed_scenarios.txt"},
